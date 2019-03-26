@@ -1,0 +1,170 @@
+BFG10k:
+- Damage Per Hit:
+ - 200 (Direct Impact)
+ - 200 (Splash Damage)
+ - 0-500 (Effect in SP)
+ - 0-200 (Effect in MP)
+ - 10 (Ball Laser in SP)
+ - 5 (Ball Laser in MP)
+- Ammunition:
+ - 200 (Default)
+ - 250 (Bandolier)
+ - 300 (Ammo Pack)
+- Fire Mode:
+ - Pump-Action
+- Ammunition Type:
+ - Cells
+- Rate of Fire:
+ - 25 RPM (Rounds Per Minute)
+- Muzzle Velocity:
+ - 34 MPH
+Link:
+ - https://quake.fandom.com/wiki/BFG10k_(Q2)
+
+Blaster:
+- Damae Per Hit:
+ - 10 (SP)
+ - 15 (MP)
+- Ammunition:
+ - Infinite
+- Firemode:
+ - Semi-Automatic
+- Rate of Fire:
+ - 2.5/s (Shots per Second)
+
+Chain Gun:
+- Damage Per Hit:
+ - 8 (SP)
+ - 6 (MP)
+- Ammunition:
+ - 200 (Default)
+ - 250 (Bandolier)
+ - 300 (Ammo Pack)
+- Fire Mode:
+ - Automatic
+- Ammunition Type:
+ - Bullets
+- Rate of Fire:
+ - 28/s (Maximum)
+- Notes:
+ - Starts out around 2.5/s, but slowly shoots faster until it hits the max 28/s
+
+Grappling Hook:
+- Fire Mode:
+ - Automatic
+- Notes:
+ - Used like a firearm, but is used to move around the map faster.
+ - Originally found in CTF
+ - Beam cannot reach far distances
+
+Grenade Launcher:
+- Damage Per Hit:
+ - 102-112 (Direct Impact)
+ - 40-112 (Splash Damage)
+- Ammunition:
+ - 50 (Default)
+ - 100 (Ammo Pack)
+- Fire Mode:
+ - Semi-Automatic
+- Ammunition Type:
+ - Grenades
+- Rate of Fire:
+ - 1/s
+
+Hand Grenade:
+- Notes:
+ - Can be cooked
+ - Explodes 4 seconds after being primed
+ - Explodes on contact with enemy
+ - distinct thump sound played everysecond while cooking
+ - Kills if still in player's hand
+
+Hyperblaster:
+- Damage Per Hit:
+ - 20 (SP)
+ - 15 (MP)
+- Ammunition:
+ - 200 (Default)
+ - 250 (Bandolier)
+ - 300 (Ammo Pack)
+- Fire Mode:
+ - Automatic
+- Ammunition Type:
+ - Cells
+- Notes:
+ - When letting go of the fire key, the Hyperblaster is subject to a cooldown.
+
+Machine Gun:
+- Damage Per Hit:
+ - 8
+- Ammunition
+ - 200 (Default)
+ - 250 (Bandolier)
+ - 300 (Ammo Pack)
+- Fire Mode:
+ - Automatic
+- Ammunition Type:
+ - Bullets
+-Notes:
+ - Poor Accuracy
+ - Recoil causing the camera to move up
+
+Railgun:
+- Damage Per Hit
+ - 150 (SP - Alerted Enemies)
+ - 300 (SP - Unalerted Enemies)
+ - 100 (MP)
+- Ammunition:
+ - 50 (Default)
+ - 75 (Bandolier)
+ - 100 (Ammo Pack)
+- Fire Mode:
+ - Semi-Automatic
+- Ammunition Type:
+ - Slugs
+- Notes:
+ - Will go through multiple enemies until hits a static object like a wall
+
+Rocket Launcher:
+- Damage Per Hit:
+ - 100-120 (Direct Impact)
+ - 60-112 (Splash Damage)
+- Ammunition:
+ - 50 (Default)
+ - 100 (Ammo Pack)
+- Fire Mode:
+ - Semi-Automatic
+- Ammunition Type:
+ - Rockets
+
+Shotgun:
+- Damage Per Hit:
+ - 4 (Per Pellet)
+ - 48 (If all pellets hit)
+- Ammunition:
+ - 100 (Default)
+ - 150 (Bandolier)
+ - 200 (Ammo Pack)
+- Fire Mode:
+ - Pump-Action
+- Ammunition Type:
+ - Shells
+
+Super Shotgun:
+- Damage Per Hit:
+ - 6 (Per Pellet)
+ - 120 (if all pellets hit)
+- Ammunition:
+ - 100 (Default)
+ - 150 (Bandolier)
+ - 200 (Ammo Pack)
+- Fire Mode:
+ - Pump Action
+- Ammunition Type:
+ - Shells
+
+(Mission Pack) The Reckoning
+- Link: https://quake.fandom.com/wiki/Category:The_Reckoning_weapons
+
+(Mission Pack) Ground Zero
+- Link: https://quake.fandom.com/wiki/Category:Ground_Zero_weapons

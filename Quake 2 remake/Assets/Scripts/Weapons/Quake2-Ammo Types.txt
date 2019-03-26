@@ -1,0 +1,31 @@
+Slug:
+- Railgun
+- Note: can be dropped by Gladiators. Comes in 10 round boxes
+
+Bullet:
+- Machine Gun
+- Chain Gun
+- Notes: Can be dropped by Machine Gun Guards, Enforcers, Gunner, Tanks, and Tank Commanders. Comes in 50 round boxes
+
+Cell:
+- Hyperblaster
+- BFG10k
+- Energy Armor
+(Mission Pack)
+- Ion Ripper (The Reckoning)
+- Plasma Beam (Ground Zero)
+Notes: Comes in 50 round packs
+
+Grenade:
+- Grenade Launcher
+- Hand Thrown
+Notes: Gunners can drop them. Comes in 5 round boxes
+
+Rocket:
+- Rocket Launcher
+Notes: Can be dropped by Iron Maidens, Tanks, and Tank Commanders. Comes in 5 round boxes
+
+Shell:
+- Shotgun
+- Super Shotgun
+Notes: Shotgun Guards can drop shells. Comes in 10 round boxes. 10 shells are given by Ammo Pack automatically
